@@ -2,8 +2,8 @@ from googleapiclient.discovery import build
 import json
 import requests
 
-API_KEY = "AIzaSyBTxtSKhYVox2d-GdjAURjXTFoxG0K3ue0" #The API_KEY you acquired
-SEARCH_ENGINE_ID = "1305a039473f46481" #The search-engine-ID you created
+API_KEY = "Api Key" #The API_KEY you acquired
+SEARCH_ENGINE_ID = "CSE" #The search-engine-ID you created
 query = []
 lineQuery = "placeholder"
 query = input("Plagirism Query: ")
